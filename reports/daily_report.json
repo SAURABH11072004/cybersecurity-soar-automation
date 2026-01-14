@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-01-14T09:04:02.638737",
+    "incident_id": "ALERT-1001",
+    "type": "phishing",
+    "severity": "high",
+    "risk_score": 95,
+    "ml_risk_confidence": 99.78,
+    "actions": [
+        "Blocked phishing sender for employee1@company.com",
+        "Reset user password",
+        "Flagged email for forensic analysis",
+        "User security awareness notification sent",
+        "Incident escalated to SOC Tier-2",
+        "Assigned to SOC Tier-2"
+    ]
+}
