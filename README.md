@@ -28,6 +28,24 @@ This project demonstrates how modern SOC teams automate incident handling:
 - 🌐 REST API exposure using FastAPI
 - ☁️ Cloud deployment using Railway
 
+## 🐳 Docker Setup
+
+![Docker Setup](images/Screenshot%202026-01-14%20145343.png)
+
+---
+
+## ⚙️ Implementation Screenshots
+
+![Implementation 1](images/Screenshot%202026-01-14%20145406.png)
+
+![Implementation 2](images/Screenshot%202026-01-14%20145429.png)
+
+![Implementation 3](images/Screenshot%202026-01-14%20145503.png)
+
+![Implementation 4](images/Screenshot%202026-01-14%20145523.png)
+
+
+
 ## 🏗️ Project Architecture
 
 ```text
@@ -103,5 +121,4 @@ Returns a simulated SOC incident response.
   ],
   "timestamp": "2026-01-14T08:53:13"
 }
-
 
